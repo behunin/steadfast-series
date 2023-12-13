@@ -9,8 +9,11 @@ hero:
   actions:
     - text: Get Started
       link: /guides/quickstart/
-      icon: right-arrow
+      icon: open-book
       variant: primary
+    - text: FAQs
+      link: /reference/faq/
+      icon: information
 ---
 
 # yuzu emulator
