@@ -32,8 +32,8 @@ again (`CTRL+F7`). The new script will be saved at the folder location previousl
 `record.txt` as the filename, optionally an overwrite dialog window will pop up that will replace the contents
 of `script0-1.txt` with the script that you just recorded allowing you to play back the script right away.
 
-<img src="./control_debugger.png" alt="For debugging purposes, the controller debugger can be used" />
-<img src="./control_debugger_pressed.png" alt="View -> Debugging -> Controller P1" />
+<img src="/control_debugger.png" alt="For debugging purposes, the controller debugger can be used" />
+<img src="/control_debugger_pressed.png" alt="View -> Debugging -> Controller P1" />
 
 ## Example script
 
@@ -51,4 +51,5 @@ A script file has the same format that [TAS-nx](https://github.com/hamhub7/tas-s
 </div></article>
 
 For more advanced scripts you can take a look at this Super Mario Odyssey [TAS script](/script0-1.txt) made by matthewpugs24.
-{{< youtube Gh2aCXdnZRk >}}
+
+<iframe width="1280" src="https://www.youtube-nocookie.com/embed/Gh2aCXdnZRk?si=GH8GOzc_TCdLWqX2" style="aspect-ratio: 16/9;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -8,20 +8,16 @@ export default defineConfig({
   integrations: [
     starlight({
       customCss: ["./src/styles/custom.css"],
-      title: "My Docs",
+      title: "yuzu Docs",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/yuzu-emu/yuzu",
       },
       sidebar: [
         {
           label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "Quickstart Guide",
-              link: "/guides/quickstart/",
-            },
-          ],
+          autogenerate: {
+            directory: "guides",
+          },
         },
         {
           label: "Reference",
