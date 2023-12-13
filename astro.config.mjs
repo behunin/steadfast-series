@@ -10,6 +10,7 @@ export default defineConfig({
       customCss: ["./src/styles/custom.css"],
       title: "yuzu Docs",
       social: {
+        discord: "https://discord.gg/u77vRWY",
         github: "https://github.com/yuzu-emu/yuzu",
       },
       sidebar: [
@@ -28,6 +29,6 @@ export default defineConfig({
       ],
     }),
   ],
-  output: "server",
+  output: "hybrid",
   adapter: cloudflare(),
 });
