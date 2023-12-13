@@ -1,5 +1,5 @@
 ---
-title: Recommended-GPU-Drivers-for-Linux
+title: Recommended GPU Drivers for Linux
 description: Setup
 ---
 

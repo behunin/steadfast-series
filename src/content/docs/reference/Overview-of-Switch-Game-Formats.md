@@ -1,5 +1,5 @@
 ---
-title: Overview-of-Switch-Game-Formats
+title: Overview of Switch Game Formats
 description: Setup
 ---
 

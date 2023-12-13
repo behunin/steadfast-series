@@ -1,5 +1,5 @@
 ---
-title: Typical-Git-Workflow
+title: Typical Git Workflow
 description: Setup
 ---
 
